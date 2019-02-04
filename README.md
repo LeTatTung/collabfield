@@ -1,0 +1,2 @@
+* Tutorial: **[The Ultimate Intermediate Ruby on Rails Tutorial: Let’s Create an Entire App!
+](https://medium.freecodecamp.org/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f)**
